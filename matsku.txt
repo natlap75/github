@@ -1,0 +1,3 @@
+vieraalla koneella ei globalia!
+
+ekan kommitin jälkeen talklennetaan ja suljetaan (!) msg sivu, niin antaa vaihtoehdon Piblish branch
